@@ -1,0 +1,15 @@
+/home/user/Documentos/csharp/practice/practice/bin/Debug/net7.0/practice
+/home/user/Documentos/csharp/practice/practice/bin/Debug/net7.0/practice.deps.json
+/home/user/Documentos/csharp/practice/practice/bin/Debug/net7.0/practice.runtimeconfig.json
+/home/user/Documentos/csharp/practice/practice/bin/Debug/net7.0/practice.dll
+/home/user/Documentos/csharp/practice/practice/bin/Debug/net7.0/practice.pdb
+/home/user/Documentos/csharp/practice/practice/obj/Debug/net7.0/practice.csproj.AssemblyReference.cache
+/home/user/Documentos/csharp/practice/practice/obj/Debug/net7.0/practice.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documentos/csharp/practice/practice/obj/Debug/net7.0/practice.AssemblyInfoInputs.cache
+/home/user/Documentos/csharp/practice/practice/obj/Debug/net7.0/practice.AssemblyInfo.cs
+/home/user/Documentos/csharp/practice/practice/obj/Debug/net7.0/practice.csproj.CoreCompileInputs.cache
+/home/user/Documentos/csharp/practice/practice/obj/Debug/net7.0/practice.dll
+/home/user/Documentos/csharp/practice/practice/obj/Debug/net7.0/refint/practice.dll
+/home/user/Documentos/csharp/practice/practice/obj/Debug/net7.0/practice.pdb
+/home/user/Documentos/csharp/practice/practice/obj/Debug/net7.0/practice.genruntimeconfig.cache
+/home/user/Documentos/csharp/practice/practice/obj/Debug/net7.0/ref/practice.dll
